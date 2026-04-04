@@ -86,14 +86,14 @@
 - Real-world applications with scalable architecture
 - Focus on performance & UX
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=troxtele&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=troxtele&layout=compact" />
-</p>
+</p> -->
 
 ---
 
