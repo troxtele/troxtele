@@ -99,9 +99,11 @@
 
 ## 🌐 Connect With Me
 
-- 💼 Fiverr: (add your link)
-- 📧 Email: (add your email)
-- 🌍 Portfolio: (add your site)
+<p>
+ <a href="https://www.fiverr.com/alriadhridoy"> <img alt="Fiverr" src="https://img.shields.io/badge/-Fiverr-45b8d8?style=flat-square&logo=fiverr&logoColor=white" /></a>
+ <a href="mailto:alriadhridoy123@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/-Email-45b8d8?style=flat-square&logo=email&logoColor=white" /></a>
+ <a href="https://alriadhridoy.com"> <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-45b8d8?style=flat-square&logo=portfolio&logoColor=white" /></a>
+</p>
 
 ---
 
