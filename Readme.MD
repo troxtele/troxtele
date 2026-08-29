@@ -1,4 +1,4 @@
-# 🚀 Full-Stack Developer | E-Commerce Developer | Web & Mobile App Developer
+# 🚀 Full-Stack Developer | E-Commerce Developer | Web App Developer
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24&height=180&section=header&text=Hi,%20I'm%20Al%20Riad%20Hridoy%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header Banner" width="100%" />
@@ -14,11 +14,11 @@
 
 ## 🌟 About Me
 
-Hi! 👋 I’m a **Full-Stack & E-Commerce Developer** who builds high-performance websites, scalable web applications, mobile apps, SaaS platforms, and profitable online stores.
+Hi! 👋 I’m a **Full-Stack & E-Commerce Developer** who builds high-performance websites, scalable web applications, SaaS platforms, and profitable online stores.
 
 I work with **startups, businesses, agencies, and entrepreneurs** to turn ideas, designs, and requirements into fast, responsive, secure, and production-ready digital products.
 
-> Whether you need a website, SaaS platform, e-commerce store, mobile app, API integration, or improvements to an existing product, **I can help.**
+> Whether you need a website, SaaS platform, e-commerce store, API integration, or improvements to an existing product, **I can help.**
 
 ---
 
@@ -122,6 +122,7 @@ I work with popular website builders and visual platforms, selecting the right s
 
 ---
 
+<!-- 
 ### 📱 Mobile App Development
 <p>
   <img alt="React Native" src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -138,6 +139,7 @@ I develop robust cross-platform mobile applications using **React Native, Expo, 
 - ✔️ Production-ready build preparation, testing, and store deployment
 
 ---
+-->
 
 ### 🤖 AI & API Integrations
 <p>
@@ -207,7 +209,6 @@ I integrate AI and external services into new or existing applications:
 | **🌐 CMS & No-Code** | Wix / Wix Studio, Webflow, Framer landing pages & marketing websites |
 | **💻 Modern Frontend** | React, Next.js, Vue, Astro, Svelte, Solid.js, Remix, Tailwind CSS |
 | **⚙️ Robust Backend** | Node.js/Express, Python/FastAPI/Django, Laravel/PHP, REST APIs |
-| **📱 Mobile Apps** | React Native / Expo and Flutter cross-platform applications |
 | **🤖 AI & Integrations** | OpenAI integration, payment gateways (Stripe/PayPal), custom webhooks |
 | **🗄️ Database Solutions** | PostgreSQL, MongoDB, Firebase, Supabase, Redis architecture |
 | **⚡ Performance & PWA** | Web performance optimization, Core Web Vitals, PWA implementation |
